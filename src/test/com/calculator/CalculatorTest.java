@@ -1,8 +1,10 @@
-package main.com.calculator;
+package test.com.calculator;
 
 import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
+
+import main.com.calculator.Calculator;
 
 
 public class CalculatorTest {
